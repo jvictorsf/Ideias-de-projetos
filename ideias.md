@@ -13,6 +13,7 @@ Alguns exemplos de implementação de um Sistema de Gestão Escolar:
  - Gestão de notas (Calcular notas dos alunos);
  - Sistema de ponto de funcionário;
  - Impressão de boletim escolar; Dentre outras coisas.
+<hr>
 
 ### Sistema de Gestão Bancária
 Crie um programa que simulará um sistema bancário simples com crédito e débito em contas bancárias.
@@ -25,6 +26,7 @@ O programa deverá:
 **Avançando com o projeto:** Desenvolva e implemente um banco de dados para armazenar as informações das contas.
 
 **Opcional:** Desenvolva um sistema de impressão de comprovante de saque, e então o comprovante, ou deve ser salvo em PDF ou imprimido.
+<hr>
 
 ### Sistema de Gestão de Agenda
 Neste projeto, o sistema deverá operar como uma agenda, o sistema deve ter funções como:
@@ -145,6 +147,6 @@ Crie um validador de RG e CPF
 ---
 
 # Referências
-https://www.mygreatlearning.com/blog/top-c-projects/
-https://www.interviewbit.com/blog/c-projects/
-https://hackr.io/blog/cpp-projects
+https://www.mygreatlearning.com/blog/top-c-projects/ <br>
+https://www.interviewbit.com/blog/c-projects/ <br>
+https://hackr.io/blog/cpp-projects <br>
